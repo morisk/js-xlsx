@@ -20,7 +20,8 @@
 	"browser": {
 		"fs": false,
 		"path": false,
-		"os": false
+		"os": false,
+		"crypto": false
 	},
 	"dependencies": {
 		"ssf": "~0.8.1",
